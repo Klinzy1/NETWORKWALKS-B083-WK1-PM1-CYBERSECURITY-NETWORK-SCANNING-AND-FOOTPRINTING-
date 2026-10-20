@@ -1,0 +1,2 @@
+# NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-NETWORK-SCANNING-AND-FOOTPRINTING-
+This project focuses on network reconnaissance and OSINT footprinting using Zenmap/Nmap and theHarvester. Zenmap/Nmap was used to scan a private network, identifying five live hosts among 1,024 IP addresses.TheHarvester was used to gather publicly available information associated with `microsoftcom,including hosts, IP addresses and subdomains 
